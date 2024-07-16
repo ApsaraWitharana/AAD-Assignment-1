@@ -34,7 +34,15 @@ In Java, serialization is typically achieved using the `java.io.Serializable` in
 - **Serialization:** Convert an object to a byte stream.
 - **Transmission:** Send the byte stream over a network or store it in a file.
 - **Deserialization:** Convert the byte stream back to an object.
+  
+## Additional Resources for Learning Expo
+To learn more about developing your project with Expo, consider the following resources:
 
+- [Java Serialization](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html):Comprehensive guide on serialization and deserialization in Java.
+- [Serializable Objects](https://docs.oracle.com/javase/tutorial/jndi/objects/serial.html):Tutorials covering basics and advanced topics of serialization.
+- [Guide to Java Serialization](https://www.baeldung.com/java-serialization-approaches):Practical examples and explanations on serialization and deserialization.
+- [Serialization and Deserialization in Java](https://www.geeksforgeeks.org/serialization-in-java/):Various tutorials and examples on Java serialization.
+  
 ## Conclusion
 In this R&D report, we have explored the Serialization and Deserialization process, highlighting its benefits and mechanism. 
 The example code [https://github.com/ApsaraWitharana/AAD-Assignment-1.git]  snippet demonstrates the process in Java, and the GitHub repository provides a reference implementation.
