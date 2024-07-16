@@ -20,3 +20,8 @@ In Java, serialization is typically achieved using the `java.io.Serializable` in
 1. **Use `ObjectInputStream`:** Create an `ObjectInputStream` to read the object from an input stream.
 2. **Cast the Object:** Cast the deserialized object back to its original type.
 
+### Conclusion
+In this R&D report, we have explored the Serialization and Deserialization process, highlighting its benefits and mechanism. 
+The example code [https://github.com/ApsaraWitharana/AAD-Assignment-1.git]  snippet demonstrates the process in Java, and the GitHub repository provides a reference implementation.
+   
+
