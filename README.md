@@ -31,9 +31,9 @@ In Java, serialization is typically achieved using the `java.io.Serializable` in
 2. **Store in File:** The serialized byte stream is stored in a file on a local file system or a remote storage system.
 
 ### Here's a summary:
-1. **Serialization:** Convert an object to a byte stream.
-2. **Transmission:** Send the byte stream over a network or store it in a file.
-3. **Deserialization:** Convert the byte stream back to an object.
+- **Serialization:** Convert an object to a byte stream.
+- **Transmission:** Send the byte stream over a network or store it in a file.
+- **Deserialization:** Convert the byte stream back to an object.
 
 ## Conclusion
 In this R&D report, we have explored the Serialization and Deserialization process, highlighting its benefits and mechanism. 
