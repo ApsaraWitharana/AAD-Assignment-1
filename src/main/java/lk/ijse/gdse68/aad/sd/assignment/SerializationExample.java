@@ -1,5 +1,6 @@
 package lk.ijse.gdse68.aad.sd.assignment;
 
+
 import java.io.*;
 
 public class SerializationExample {
